@@ -1,4 +1,4 @@
-FROM registry.fedoraproject.org/fedora:32
+FROM registry.fedoraproject.org/fedora:33
 
 LABEL version="$VERSION"                                              \
       usage="This image is meant to be used with the toolbox command" \
